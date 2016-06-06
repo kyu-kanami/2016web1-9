@@ -7,9 +7,9 @@
 
 /* main */
 body{
-    background-image: url(../img/yuzuriha.jpg);
-    background-repeat: no-repeat;
-    background-size: 5%, cover;
+    background-image: url(../img/image.jpg), url(../img/yuzuriha.jpg);
+    background-repeat: no-repeat,no-repeat;
+    background-size: 5%,5%, cover;
     background-color: lightgrey;
     margin: 5px;
 }
